@@ -220,7 +220,6 @@ h1 {
 .info div {
     padding: 22px;
     background: var(--bleu-clair);
-    border-left: 4px solid var(--vert);
     border-radius: 6px;
 }
 
